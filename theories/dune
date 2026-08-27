@@ -1,0 +1,12 @@
+(include_subdirs qualified)
+
+(coq.theory
+ (name TestingTheory)
+ (package testing-theory)
+ (synopsis "Testing theory for May and Must")
+ (theories stdpp Stdlib Coinduction)
+)
+
+(documentation
+ (package testing-theory)
+)

@@ -1,0 +1,7 @@
+#-R _build/default/theories/ TestingTheory
+#theories
+
+
+
+-R theories TestingTheory
+theories
